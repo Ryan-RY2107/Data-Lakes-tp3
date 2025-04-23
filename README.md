@@ -20,6 +20,7 @@ A full-stack data pipeline integrating SQL and NoSQL for building a modern data 
 ```bash
 git clone https://github.com/Ryan-RY2107/Data-Lakes-tp3.git
 cd Data-Lakes-tp3
+'''
 
 ### 2. Start services
 
